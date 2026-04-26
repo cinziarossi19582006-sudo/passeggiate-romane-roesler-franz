@@ -1,0 +1,339 @@
+{
+  "itinerari": [
+    {
+      "id": "franz_roma_scomparsa",
+      "nome": "Sulle rive del tempo: la Roma di Roesler Franz",
+      "sottotitolo": "Un percorso tra luoghi, memoria e acquerelli",
+      "personaggio": {
+        "nome": "Ettore Roesler Franz",
+        "anni": "1845-1907",
+        "professione": "Pittore",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Ettore Roesler Franz è stato un pittore romano noto soprattutto per i suoi acquerelli dedicati alla cosiddetta Roma scomparsa. Nelle sue opere ha raccontato una città fatta non solo di monumenti celebri, ma anche di scorci quotidiani, rive del Tevere e luoghi destinati a cambiare volto nel tempo.",
+        "immagine": "D28A6AB0-3F85-494D-888E-15861B9439B6.jpeg",
+        "opere_correlate": [
+          "Roma sparita",
+          "Acquerelli della Roma scomparsa"
+        ]
+      },
+      "tema": "Roma scomparsa e acquerelli",
+      "categoria": "Arte e Cultura",
+      "durata_totale_ore": 8,
+      "difficolta": "facile",
+      "immagine_copertina": "D28A6AB0-3F85-494D-888E-15861B9439B6.jpeg",
+      "distanza_totale_km": 4.2,
+      "periodo_consigliato": "Primavera o autunno",
+      "stagione_migliore": [
+        "marzo",
+        "aprile",
+        "maggio",
+        "settembre",
+        "ottobre"
+      ],
+      "descrizione": "Questo itinerario segue alcuni luoghi di Roma legati allo sguardo di Ettore Roesler Franz. Il percorso si sviluppa soprattutto intorno al Tevere e attraversa spazi che, nei suoi acquerelli, diventano frammenti di una città più intima, popolare e mutevole. La tappa finale al Museo di Roma in Trastevere permette di chiudere il percorso ritrovando nei dipinti la memoria dei luoghi visti dal vivo.",
+      "note_logistiche": "Il percorso si svolge quasi interamente a piedi ed è adatto a una giornata tranquilla nel centro storico. Conviene controllare prima gli orari del museo.",
+      "accessibilita": "Le tappe si trovano nel centro di Roma e si raggiungono facilmente con mezzi pubblici e tratti a piedi.",
+      "costo_stimato": "Gratuito, tranne l'eventuale ingresso al Museo di Roma in Trastevere",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "porto_ripetta",
+          "orario_consigliato": "09:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 25,
+          "coordinate": [41.9057, 12.4731],
+          "nome": "Piazza del Porto di Ripetta",
+          "descrizione_breve": "Il Porto di Ripetta era uno degli approdi più importanti sul Tevere. Oggi non esiste più nella sua forma originaria, ma resta un luogo chiave per capire il rapporto tra la città e il fiume.",
+          "indicazioni_arrivo": "Si raggiunge facilmente dalla zona di Piazza del Popolo con una breve passeggiata verso il Tevere.",
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "Negli acquerelli di Roesler Franz questa zona appare legata alla vita del fiume, ai passaggi, agli scambi e al movimento quotidiano. È uno dei luoghi in cui si percepisce meglio la sua attenzione per una Roma vissuta e non solo celebrata.",
+              "emozione_target": "memoria"
+            },
+            "atmosfera": {
+              "momento": "mattina",
+              "luce": "chiara e tranquilla",
+              "temperatura_stimata": "16-18°C",
+              "suoni_ambiente": [
+                "rumore della città",
+                "passi dei passanti",
+                "suoni lungo il fiume"
+              ],
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Conviene soffermarsi sul rapporto tra il lungotevere attuale e l'idea dell'antico approdo.",
+              "emozione_target": "riflessione"
+            }
+          },
+          "storia": "Il Porto di Ripetta fu per secoli un punto importante per il commercio e per la vita lungo il Tevere.",
+          "curiosita": "È una tappa che funziona quasi per assenza: più che guardare quello che c'è, qui viene spontaneo immaginare quello che non si vede più.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "bar",
+              "mezzi pubblici vicini"
+            ]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "ghetto_ebraico",
+          "orario_consigliato": "10:30",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 30,
+          "coordinate": [41.8928, 12.4769],
+          "nome": "Ghetto Ebraico di Roma",
+          "descrizione_breve": "Il Ghetto è uno dei luoghi più intensi della Roma storica. Tra vicoli, stratificazioni e dettagli urbani, conserva ancora oggi una presenza molto forte.",
+          "indicazioni_arrivo": "Dal Porto di Ripetta si può arrivare a piedi seguendo il Tevere.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "20 min",
+            "distanza_km": 1.6
+          },
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "In questa zona Roesler Franz si avvicina a una Roma fatta di margini, dettagli e vita vera. Non guarda solo la monumentalità, ma quello che resta ai lati, nelle strade e nelle pieghe della città.",
+              "emozione_target": "autenticita"
+            },
+            "atmosfera": {
+              "momento": "tarda mattina",
+              "luce": "più intensa",
+              "temperatura_stimata": "18-20°C",
+              "suoni_ambiente": [
+                "voci di passanti",
+                "rumori di quartiere",
+                "movimento urbano"
+              ],
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Funzionano bene gli scorci più stretti, i passaggi tra ombra e luce e i dettagli delle facciate.",
+              "emozione_target": "presenza"
+            }
+          },
+          "storia": "Il Ghetto di Roma è uno spazio profondamente legato alla storia della città e conserva ancora una forte identità urbana e culturale.",
+          "curiosita": "Qui il percorso cambia tono: non sembra di entrare in una cartolina di Roma, ma in una parte della città che continua a trattenere molte vite e molte memorie insieme.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "ristoranti",
+              "bar",
+              "fermate bus vicine"
+            ]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "isola_tiberina",
+          "orario_consigliato": "11:10",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 25,
+          "coordinate": [41.8903, 12.4779],
+          "nome": "Isola Tiberina",
+          "descrizione_breve": "L'Isola Tiberina è uno dei punti più riconoscibili del Tevere e sembra quasi un piccolo mondo a parte, sospeso tra le due sponde.",
+          "indicazioni_arrivo": "Dal Ghetto si raggiunge facilmente a piedi.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "8 min",
+            "distanza_km": 0.5
+          },
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "In questo punto il pittore insiste soprattutto sul dialogo tra acqua, pietra e silenzio urbano. L'isola diventa quasi una pausa nel ritmo della città.",
+              "emozione_target": "calma"
+            },
+            "atmosfera": {
+              "momento": "mattina",
+              "luce": "diffusa",
+              "temperatura_stimata": "19-20°C",
+              "suoni_ambiente": [
+                "acqua del Tevere",
+                "passi dei visitatori",
+                "rumori urbani lontani"
+              ],
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Vale la pena cercare un'inquadratura che includa l'isola, il fiume e i ponti vicini.",
+              "emozione_target": "contemplazione"
+            }
+          },
+          "storia": "L'Isola Tiberina è da secoli uno dei luoghi simbolici del rapporto tra Roma e il suo fiume.",
+          "curiosita": "Tra tutte le tappe, è quella che rallenta di più lo sguardo: non colpisce subito, ma resta addosso.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "bar",
+              "ponti pedonali",
+              "mezzi pubblici vicini"
+            ]
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "ponte_emilio",
+          "orario_consigliato": "11:30",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 20,
+          "coordinate": [41.8895, 12.4781],
+          "nome": "Ponte Emilio",
+          "descrizione_breve": "Oggi noto soprattutto come Ponte Rotto, è una delle immagini più suggestive della Roma frammentata e trasformata dal tempo.",
+          "indicazioni_arrivo": "Dall'Isola Tiberina si raggiunge con una breve passeggiata.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "5 min",
+            "distanza_km": 0.3
+          },
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "Roesler Franz trasforma il ponte in una presenza quasi teatrale: non solo una rovina, ma un frammento che continua a raccontare la città proprio perché incompleto.",
+              "emozione_target": "nostalgia"
+            },
+            "atmosfera": {
+              "momento": "tarda mattina",
+              "luce": "chiara",
+              "temperatura_stimata": "20-21°C",
+              "suoni_ambiente": [
+                "scorrere del fiume",
+                "voci dei visitatori",
+                "rumori della città"
+              ],
+              "affollamento": "basso-moderato",
+              "consiglio_fotografico": "Funziona bene mettere in evidenza il contrasto tra il rudere e lo sfondo urbano contemporaneo.",
+              "emozione_target": "riflessione"
+            }
+          },
+          "storia": "Il Ponte Emilio è uno dei ponti più antichi di Roma ed è arrivato fino a oggi in forma parziale.",
+          "curiosita": "Più che un ponte interrotto, sembra una frase lasciata a metà. Ed è proprio per questo che si ricorda così facilmente.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "aree pedonali vicine",
+              "locali nelle vicinanze"
+            ]
+          }
+        },
+        {
+          "numero": 5,
+          "poi_id": "trastevere",
+          "orario_consigliato": "15:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 40,
+          "coordinate": [41.8898, 12.4700],
+          "nome": "Trastevere",
+          "descrizione_breve": "Trastevere restituisce il lato più quotidiano, popolare e vissuto della città, quello che nei dipinti di Roesler Franz non fa da sfondo ma diventa protagonista.",
+          "indicazioni_arrivo": "Da Ponte Emilio si attraversa il ponte verso Trastevere.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "10 min",
+            "distanza_km": 0.7
+          },
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "Negli scorci legati a questa zona emerge una Roma fatta di vicoli, case, passaggi e presenza umana. È una città meno ufficiale, ma forse proprio per questo più vicina.",
+              "emozione_target": "vitalita"
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "più calda e morbida",
+              "temperatura_stimata": "21-23°C",
+              "suoni_ambiente": [
+                "voci nei vicoli",
+                "rumori di quartiere",
+                "movimento del rione"
+              ],
+              "affollamento": "moderato",
+              "consiglio_fotografico": "Meglio cercare scorci laterali, dettagli di strada e punti in cui il quartiere sembra ancora trattenere un ritmo più lento.",
+              "emozione_target": "autenticita"
+            }
+          },
+          "storia": "Trastevere è uno dei quartieri più caratteristici di Roma e conserva una forte identità popolare.",
+          "curiosita": "Qui la Roma scomparsa non sparisce del tutto: ogni tanto sembra solo essersi nascosta dietro un vicolo, una finestra aperta o un muro consumato.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": [
+              "ristoranti",
+              "bar",
+              "piazze",
+              "mezzi pubblici vicini"
+            ]
+          }
+        },
+        {
+          "numero": 6,
+          "poi_id": "museo_roma_trastevere",
+          "orario_consigliato": "16:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 50,
+          "coordinate": [41.8891, 12.4706],
+          "nome": "Museo di Roma in Trastevere",
+          "descrizione_breve": "Questa è la tappa finale del percorso, perché permette di rileggere i luoghi attraversati attraverso immagini, memoria urbana e sguardo artistico.",
+          "indicazioni_arrivo": "Dal centro di Trastevere si raggiunge a piedi in pochi minuti.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "6 min",
+            "distanza_km": 0.4
+          },
+          "esperienza_culturale": {
+            "arte_visiva": {
+              "movimento_artistico": "Acquerello ottocentesco",
+              "artista": "Ettore Roesler Franz",
+              "descrizione_artistica": "La visita al museo chiude bene il percorso perché permette di passare dal luogo reale alla sua interpretazione visiva. Dopo la camminata, lo sguardo sulle opere cambia.",
+              "emozione_target": "consapevolezza"
+            },
+            "atmosfera": {
+              "momento": "tardo pomeriggio",
+              "luce": "interna e raccolta",
+              "temperatura_stimata": "20-22°C",
+              "suoni_ambiente": [
+                "silenzio delle sale",
+                "passi dei visitatori",
+                "voci basse"
+              ],
+              "affollamento": "basso-moderato",
+              "consiglio_fotografico": "Qui conta soprattutto il collegamento mentale tra i luoghi appena visti e la loro rilettura artistica.",
+              "emozione_target": "riflessione"
+            }
+          },
+          "storia": "Il museo offre un contesto utile per approfondire la memoria urbana di Roma e il modo in cui è stata raccontata visivamente.",
+          "curiosita": "È la tappa in cui il percorso si capovolge: fino a quel momento guardi la città pensando ai dipinti, qui invece guardi le immagini portandoti dietro la città appena attraversata.",
+          "metadata": {
+            "accessibilita": "ingresso secondo tariffe del museo",
+            "orari_standard": "verificare sul sito ufficiale",
+            "servizi": [
+              "biglietteria",
+              "mostre",
+              "bookshop"
+            ]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "colore_percorso": "#8e44ad",
+        "stile_linea": "solid"
+      },
+      "consigli_pratici": [
+        "Mettere scarpe comode perché gran parte del percorso si fa a piedi",
+        "Portare acqua, soprattutto nelle giornate più calde",
+        "Controllare prima gli orari del museo",
+        "Fare il percorso con calma, lasciando spazio anche all'osservazione"
+      ],
+      "migliore_periodo_anno": "Primavera o inizio autunno",
+      "sconsigliato": [
+        "Giornate molto afose",
+        "Pioggia forte"
+      ],
+      "cosa_portare": [
+        "Smartphone con mappa",
+        "Bottiglia d'acqua",
+        "Scarpe comode",
+        "Power bank"
+      ]
+    }
+  ]
+}
