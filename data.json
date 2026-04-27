@@ -13,7 +13,9 @@
         "immagine": "D28A6AB0-3F85-494D-888E-15861B9439B6.jpeg",
         "opere_correlate": [
           "Roma sparita",
-          "Acquerelli della Roma scomparsa"
+          "Porto di Ripetta verso Levante",
+          "La via Rua, in fondo il Portico d'Ottavia",
+          "L'Isola Tiberina da levante coi ponti Cestio e Fabricio"
         ]
       },
       "tema": "Roma scomparsa e acquerelli",
@@ -45,10 +47,27 @@
           "nome": "Piazza del Porto di Ripetta",
           "descrizione_breve": "Il Porto di Ripetta era uno degli approdi più importanti sul Tevere. Oggi non esiste più nella sua forma originaria, ma resta un luogo chiave per capire il rapporto tra la città e il fiume.",
           "indicazioni_arrivo": "Si raggiunge facilmente dalla zona di Piazza del Popolo con una breve passeggiata verso il Tevere.",
+          "tempo_spostamento_da_tappa_precedente": null,
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Valzer ai laghi",
+              "compositore": "Nino Rota",
+              "anno": "1960",
+              "spotify_url": "https://open.spotify.com/track/3dK6urOsIwqXsdBn9xU5yW",
+              "collegamento_tappa": "Il tono sospeso e malinconico del brano accompagna bene un luogo che oggi vive soprattutto nella memoria. Il Porto di Ripetta non colpisce per ciò che mostra, ma per ciò che invita a ricostruire."
+            },
+            "letteratura": {
+              "citazione": "Restassi sempre ar Porto de Ripetta",
+              "autore": "Giuseppe Gioachino Belli",
+              "opera": "Sonetti romaneschi",
+              "anno": "XIX secolo",
+              "contesto": "La citazione collega il luogo alla voce popolare di Roma e rafforza il senso di una città vissuta, quotidiana e non solo monumentale."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
+              "opera": "Porto di Ripetta verso Levante",
+              "anno": "1888",
               "descrizione_artistica": "Negli acquerelli di Roesler Franz questa zona appare legata alla vita del fiume, ai passaggi, agli scambi e al movimento quotidiano. È uno dei luoghi in cui si percepisce meglio la sua attenzione per una Roma vissuta e non solo celebrata.",
               "emozione_target": "memoria"
             },
@@ -92,11 +111,27 @@
             "distanza_km": 1.6
           },
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Kol Nidrei, Op. 47",
+              "compositore": "Max Bruch",
+              "anno": "1880",
+              "spotify_url": "https://open.spotify.com/track/3kDtUZlnflONnywn5Xww1s",
+              "collegamento_tappa": "Il brano crea un tono raccolto e meditativo, adatto a una tappa in cui la memoria storica e identitaria del luogo è centrale."
+            },
+            "letteratura": {
+              "citazione": "16 ottobre 1943",
+              "autore": "Giacomo Debenedetti",
+              "opera": "16 ottobre 1943",
+              "anno": "1944",
+              "contesto": "Il riferimento a Debenedetti collega il Ghetto non solo alla storia urbana, ma anche alla memoria della comunità ebraica romana."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
-              "descrizione_artistica": "In questa zona Roesler Franz si avvicina a una Roma fatta di margini, dettagli e vita vera. Non guarda solo la monumentalità, ma quello che resta ai lati, nelle strade e nelle pieghe della città.",
-              "emozione_target": "autenticita"
+              "opera": "La via Rua, in fondo il Portico d'Ottavia",
+              "anno": "1888",
+              "descrizione_artistica": "In questa zona Roesler Franz si avvicina a una Roma fatta di margini, dettagli e vita vera. Non guarda solo la monumentalità, ma quello che resta ai lati, tra le strade e nelle pieghe della città.",
+              "emozione_target": "autenticità"
             },
             "atmosfera": {
               "momento": "tarda mattina",
@@ -139,9 +174,25 @@
             "distanza_km": 0.5
           },
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Fontane di Roma",
+              "compositore": "Ottorino Respighi",
+              "anno": "1916",
+              "spotify_url": "https://open.spotify.com/intl-it/album/13pPUlh3OIWNLN5PukMLlc",
+              "collegamento_tappa": "Il riferimento a Respighi serve a rafforzare il rapporto tra Roma, acqua e paesaggio sonoro urbano. L'Isola Tiberina diventa una pausa nel percorso, sospesa tra il fiume e la città."
+            },
+            "letteratura": {
+              "citazione": "L'isola, posta nel mezzo del Tevere, diventa nella tradizione romana un luogo di passaggio, cura e leggenda.",
+              "autore": "Tradizione storica romana",
+              "opera": "Leggenda dell'Isola Tiberina",
+              "anno": "antichità",
+              "contesto": "Il riferimento alla tradizione leggendaria dell'isola permette di leggerla non solo come luogo geografico, ma come spazio simbolico tra due rive."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
+              "opera": "L'Isola Tiberina da levante coi ponti Cestio e Fabricio",
+              "anno": "1881",
               "descrizione_artistica": "In questo punto il pittore insiste soprattutto sul dialogo tra acqua, pietra e silenzio urbano. L'isola diventa quasi una pausa nel ritmo della città.",
               "emozione_target": "calma"
             },
@@ -186,9 +237,25 @@
             "distanza_km": 0.3
           },
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Vecchia Roma",
+              "compositore": "Claudio Villa",
+              "anno": "XX secolo",
+              "spotify_url": "https://open.spotify.com/track/5UinVa6pTm12eTJ9Wzzq3O",
+              "collegamento_tappa": "Il brano richiama una Roma del passato e si lega bene al Ponte Rotto, che appare come un frammento urbano rimasto sospeso nel tempo."
+            },
+            "letteratura": {
+              "citazione": "Più che un ponte interrotto, sembra una frase lasciata a metà.",
+              "autore": "Chiave narrativa del progetto",
+              "opera": "Lettura del Ponte Emilio",
+              "anno": "",
+              "contesto": "La frase interpreta il ponte come frammento: non solo rovina archeologica, ma segno visibile della trasformazione della città."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
+              "opera": "Ponte Senatorio, detto Ponte Rotto",
+              "anno": "1880",
               "descrizione_artistica": "Roesler Franz trasforma il ponte in una presenza quasi teatrale: non solo una rovina, ma un frammento che continua a raccontare la città proprio perché incompleto.",
               "emozione_target": "nostalgia"
             },
@@ -232,11 +299,27 @@
             "distanza_km": 0.7
           },
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Casetta De Trastevere",
+              "compositore": "Claudio Villa",
+              "anno": "XX secolo",
+              "spotify_url": "https://open.spotify.com/intl-it/track/1l9Vq5FfGgUO3djaQhjRdP",
+              "collegamento_tappa": "La canzone richiama una dimensione domestica e popolare del rione. È adatta a una tappa in cui Roma torna a essere quartiere, vicolo, casa e vita quotidiana."
+            },
+            "letteratura": {
+              "citazione": "La Roma più vera a volte si lascia leggere meglio nei vicoli che nelle grandi vedute.",
+              "autore": "Chiave narrativa del progetto",
+              "opera": "Lettura di Trastevere",
+              "anno": "",
+              "contesto": "La frase sintetizza il ruolo di Trastevere nel percorso: una Roma meno ufficiale, più intima e popolare, vicina allo sguardo di Roesler Franz."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
+              "opera": "Scorci della Roma popolare",
+              "anno": "fine Ottocento",
               "descrizione_artistica": "Negli scorci legati a questa zona emerge una Roma fatta di vicoli, case, passaggi e presenza umana. È una città meno ufficiale, ma forse proprio per questo più vicina.",
-              "emozione_target": "vitalita"
+              "emozione_target": "vitalità"
             },
             "atmosfera": {
               "momento": "pomeriggio",
@@ -249,7 +332,7 @@
               ],
               "affollamento": "moderato",
               "consiglio_fotografico": "Meglio cercare scorci laterali, dettagli di strada e punti in cui il quartiere sembra ancora trattenere un ritmo più lento.",
-              "emozione_target": "autenticita"
+              "emozione_target": "autenticità"
             }
           },
           "storia": "Trastevere è uno dei quartieri più caratteristici di Roma e conserva una forte identità popolare.",
@@ -280,9 +363,25 @@
             "distanza_km": 0.4
           },
           "esperienza_culturale": {
+            "musica": {
+              "brano": "Roma capoccia",
+              "compositore": "Antonello Venditti",
+              "anno": "1972",
+              "spotify_url": "https://open.spotify.com/intl-it/track/5ocKe9oBoFLOSnnhML3WOC",
+              "collegamento_tappa": "La canzone funziona come chiusura emotiva del percorso: dopo aver attraversato la città reale, il visitatore torna a guardare Roma come insieme di memoria, immagini e sentimento urbano."
+            },
+            "letteratura": {
+              "citazione": "Roma pittoresca. Memorie di un'era che passa",
+              "autore": "Ettore Roesler Franz",
+              "opera": "Idea guida della serie Roma sparita",
+              "anno": "fine XIX secolo",
+              "contesto": "La formula sintetizza bene il senso della tappa finale: il museo trasforma i luoghi attraversati in memoria visiva e permette di rileggere la città attraverso gli acquerelli."
+            },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
               "artista": "Ettore Roesler Franz",
+              "opera": "Roma sparita",
+              "anno": "1878-1896",
               "descrizione_artistica": "La visita al museo chiude bene il percorso perché permette di passare dal luogo reale alla sua interpretazione visiva. Dopo la camminata, lo sguardo sulle opere cambia.",
               "emozione_target": "consapevolezza"
             },
@@ -333,6 +432,80 @@
         "Bottiglia d'acqua",
         "Scarpe comode",
         "Power bank"
+      ],
+      "bibliografia": [
+        {
+          "tipo": "storico-artistica",
+          "fonte": "Museo di Roma in Trastevere",
+          "titolo": "Ettore Roesler Franz",
+          "url": "https://www.museodiromaintrastevere.it/it/infopage/ettore-roesler-franz"
+        },
+        {
+          "tipo": "storico-artistica",
+          "fonte": "Museo di Roma",
+          "titolo": "Roma sparita",
+          "url": "https://www.museodiroma.it/it/percorso/roma-sparita"
+        },
+        {
+          "tipo": "letteraria",
+          "fonte": "Giuseppe Gioachino Belli",
+          "titolo": "Sonetti romaneschi",
+          "url": "https://it.wikisource.org/wiki/Pagina:Sonetti_romaneschi_VI.djvu/362"
+        },
+        {
+          "tipo": "letteraria",
+          "fonte": "Giacomo Debenedetti",
+          "titolo": "16 ottobre 1943",
+          "url": "https://www.archivioluce.com/16-ottobre-1943/"
+        },
+        {
+          "tipo": "tecnica",
+          "fonte": "Leaflet",
+          "titolo": "Leaflet 1.9.4",
+          "url": "https://leafletjs.com/"
+        },
+        {
+          "tipo": "tecnica",
+          "fonte": "OpenStreetMap",
+          "titolo": "Tile layer cartografico",
+          "url": "https://www.openstreetmap.org/"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Valzer ai laghi - Nino Rota",
+          "url": "https://open.spotify.com/track/3dK6urOsIwqXsdBn9xU5yW"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Kol Nidrei, Op. 47 - Max Bruch",
+          "url": "https://open.spotify.com/track/3kDtUZlnflONnywn5Xww1s"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Fontane di Roma - Ottorino Respighi",
+          "url": "https://open.spotify.com/intl-it/album/13pPUlh3OIWNLN5PukMLlc"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Vecchia Roma - Claudio Villa",
+          "url": "https://open.spotify.com/track/5UinVa6pTm12eTJ9Wzzq3O"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Casetta De Trastevere - Claudio Villa",
+          "url": "https://open.spotify.com/intl-it/track/1l9Vq5FfGgUO3djaQhjRdP"
+        },
+        {
+          "tipo": "musicale",
+          "fonte": "Spotify",
+          "titolo": "Roma capoccia - Antonello Venditti",
+          "url": "https://open.spotify.com/intl-it/track/5ocKe9oBoFLOSnnhML3WOC"
+        }
       ]
     }
   ]
