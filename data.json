@@ -43,7 +43,10 @@
           "orario_consigliato": "09:00",
           "momento_giornata": "mattino",
           "durata_visita_min": 25,
-          "coordinate": [41.9057, 12.4731],
+          "coordinate": [
+            41.9057,
+            12.4731
+          ],
           "nome": "Piazza del Porto di Ripetta",
           "descrizione_breve": "Il Porto di Ripetta era uno degli approdi più importanti sul Tevere. Oggi non esiste più nella sua forma originaria, ma resta un luogo chiave per capire il rapporto tra la città e il fiume.",
           "indicazioni_arrivo": "Si raggiunge facilmente dalla zona di Piazza del Popolo con una breve passeggiata verso il Tevere.",
@@ -52,16 +55,34 @@
             "musica": {
               "brano": "Valzer ai laghi",
               "compositore": "Nino Rota",
-              "anno": "1960",
-              "spotify_url": "https://open.spotify.com/track/3dK6urOsIwqXsdBn9xU5yW",
+              "interprete": "Nino Rota",
+              "anno": {
+                "testuale": "1960",
+                "valore": 1960
+              },
+              "spotify": {
+                "tipo": "track",
+                "id": "3dK6urOsIwqXsdBn9xU5yW",
+                "url": "https://open.spotify.com/track/3dK6urOsIwqXsdBn9xU5yW"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "titolo non univoco nel catalogo Spotify globale"
+              },
               "collegamento_tappa": "Il tono sospeso e malinconico del brano accompagna bene un luogo che oggi vive soprattutto nella memoria. Il Porto di Ripetta non colpisce per ciò che mostra, ma per ciò che invita a ricostruire."
             },
             "letteratura": {
-              "citazione": "Restassi sempre ar Porto de Ripetta",
+              "citazione": "Manco de l'acquaticci de Ripetta.",
               "autore": "Giuseppe Gioachino Belli",
-              "opera": "Sonetti romaneschi",
-              "anno": "XIX secolo",
-              "contesto": "La citazione collega il luogo alla voce popolare di Roma e rafforza il senso di una città vissuta, quotidiana e non solo monumentale."
+              "opera": "Sto monno e cquell'antro",
+              "anno": "1832",
+              "contesto": "Il riferimento a Ripetta nei Sonetti romaneschi richiama la Roma popolare e fluviale osservata attraverso il dialetto.",
+              "fonti": [
+                {
+                  "tipo": "testo digitale",
+                  "link": "https://it.wikisource.org/wiki/Sto_monno_e_cquell%27antro"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -102,7 +123,10 @@
           "orario_consigliato": "10:30",
           "momento_giornata": "mattino",
           "durata_visita_min": 30,
-          "coordinate": [41.8928, 12.4769],
+          "coordinate": [
+            41.8928,
+            12.4769
+          ],
           "nome": "Ghetto Ebraico di Roma",
           "descrizione_breve": "Il Ghetto è uno dei luoghi più intensi della Roma storica. Tra vicoli, stratificazioni e dettagli urbani, conserva ancora oggi una presenza molto forte.",
           "indicazioni_arrivo": "Dal Porto di Ripetta si può arrivare a piedi seguendo il Tevere.",
@@ -114,16 +138,34 @@
             "musica": {
               "brano": "Kol Nidrei, Op. 47",
               "compositore": "Max Bruch",
-              "anno": "1880",
-              "spotify_url": "https://open.spotify.com/track/3kDtUZlnflONnywn5Xww1s",
+              "interprete": "Max Bruch",
+              "anno": {
+                "testuale": "1880",
+                "valore": 1880
+              },
+              "spotify": {
+                "tipo": "track",
+                "id": "3kDtUZlnflONnywn5Xww1s",
+                "url": "https://open.spotify.com/track/3kDtUZlnflONnywn5Xww1s"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "identificatore Spotify non verificato in tempo reale"
+              },
               "collegamento_tappa": "Il brano crea un tono raccolto e meditativo, adatto a una tappa in cui la memoria storica e identitaria del luogo è centrale."
             },
             "letteratura": {
-              "citazione": "16 ottobre 1943",
+              "citazione": "Ma nessuno volle crederci.",
               "autore": "Giacomo Debenedetti",
               "opera": "16 ottobre 1943",
               "anno": "1944",
-              "contesto": "Il riferimento a Debenedetti collega il Ghetto non solo alla storia urbana, ma anche alla memoria della comunità ebraica romana."
+              "contesto": "La frase rimanda al clima di incredulità e sospensione che precedette la deportazione degli ebrei romani.",
+              "fonti": [
+                {
+                  "tipo": "libro",
+                  "link": "https://books.google.com/books/about/16_ottobre_1943.html?hl=it&id=oQ4VrgEACAAJ"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -165,7 +207,10 @@
           "orario_consigliato": "11:10",
           "momento_giornata": "mattino",
           "durata_visita_min": 25,
-          "coordinate": [41.8903, 12.4779],
+          "coordinate": [
+            41.8903,
+            12.4779
+          ],
           "nome": "Isola Tiberina",
           "descrizione_breve": "L'Isola Tiberina è uno dei punti più riconoscibili del Tevere e sembra quasi un piccolo mondo a parte, sospeso tra le due sponde.",
           "indicazioni_arrivo": "Dal Ghetto si raggiunge facilmente a piedi.",
@@ -177,16 +222,34 @@
             "musica": {
               "brano": "Fontane di Roma",
               "compositore": "Ottorino Respighi",
-              "anno": "1916",
-              "spotify_url": "https://open.spotify.com/intl-it/album/13pPUlh3OIWNLN5PukMLlc",
+              "interprete": "Ottorino Respighi",
+              "anno": {
+                "testuale": "1916",
+                "valore": 1916
+              },
+              "spotify": {
+                "tipo": "album",
+                "id": "13pPUlh3OIWNLN5PukMLlc",
+                "url": "https://open.spotify.com/intl-it/album/13pPUlh3OIWNLN5PukMLlc"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "album corretto ma non verificata corrispondenza diretta traccia-interpretazione"
+              },
               "collegamento_tappa": "Il riferimento a Respighi serve a rafforzare il rapporto tra Roma, acqua e paesaggio sonoro urbano. L'Isola Tiberina diventa una pausa nel percorso, sospesa tra il fiume e la città."
             },
             "letteratura": {
-              "citazione": "L'isola, posta nel mezzo del Tevere, diventa nella tradizione romana un luogo di passaggio, cura e leggenda.",
-              "autore": "Tradizione storica romana",
-              "opera": "Leggenda dell'Isola Tiberina",
-              "anno": "antichità",
-              "contesto": "Il riferimento alla tradizione leggendaria dell'isola permette di leggerla non solo come luogo geografico, ma come spazio simbolico tra due rive."
+              "citazione": "Il dio si insediò a Roma nel 293 a.C. con il nome di Esculapio, nell'Isola Tiberina.",
+              "autore": "Treccani",
+              "opera": "Enciclopedia Treccani, voce Asclepio",
+              "anno": "voce enciclopedica",
+              "contesto": "Riferimento storico-enciclopedico al legame tra l'Isola Tiberina e il culto di Esculapio.",
+              "fonti": [
+                {
+                  "tipo": "enciclopedia",
+                  "link": "https://www.treccani.it/enciclopedia/asclepio/"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -228,7 +291,10 @@
           "orario_consigliato": "11:30",
           "momento_giornata": "mattino",
           "durata_visita_min": 20,
-          "coordinate": [41.8895, 12.4781],
+          "coordinate": [
+            41.8895,
+            12.4781
+          ],
           "nome": "Ponte Emilio",
           "descrizione_breve": "Oggi noto soprattutto come Ponte Rotto, è una delle immagini più suggestive della Roma frammentata e trasformata dal tempo.",
           "indicazioni_arrivo": "Dall'Isola Tiberina si raggiunge con una breve passeggiata.",
@@ -240,16 +306,34 @@
             "musica": {
               "brano": "Vecchia Roma",
               "compositore": "Claudio Villa",
-              "anno": "XX secolo",
-              "spotify_url": "https://open.spotify.com/track/5UinVa6pTm12eTJ9Wzzq3O",
+              "interprete": "Claudio Villa",
+              "anno": {
+                "testuale": "XX secolo",
+                "valore": null
+              },
+              "spotify": {
+                "tipo": "track",
+                "id": "5UinVa6pTm12eTJ9Wzzq3O",
+                "url": "https://open.spotify.com/track/5UinVa6pTm12eTJ9Wzzq3O"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "metadata Spotify non validata su catalogo globale"
+              },
               "collegamento_tappa": "Il brano richiama una Roma del passato e si lega bene al Ponte Rotto, che appare come un frammento urbano rimasto sospeso nel tempo."
             },
             "letteratura": {
-              "citazione": "Più che un ponte interrotto, sembra una frase lasciata a metà.",
-              "autore": "Chiave narrativa del progetto",
-              "opera": "Lettura del Ponte Emilio",
-              "anno": "",
-              "contesto": "La frase interpreta il ponte come frammento: non solo rovina archeologica, ma segno visibile della trasformazione della città."
+              "citazione": "Memorie di un'era che passa.",
+              "autore": "Ettore Roesler Franz",
+              "opera": "Roma pittoresca",
+              "anno": "1878-1896",
+              "contesto": "Il titolo della serie di acquerelli sintetizza bene il senso del Ponte Rotto come frammento urbano sopravvissuto alle trasformazioni della città.",
+              "fonti": [
+                {
+                  "tipo": "museo ufficiale",
+                  "link": "https://www.museodiromaintrastevere.it/it/infopage/ettore-roesler-franz"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -290,7 +374,10 @@
           "orario_consigliato": "15:00",
           "momento_giornata": "pomeriggio",
           "durata_visita_min": 40,
-          "coordinate": [41.8898, 12.4700],
+          "coordinate": [
+            41.8898,
+            12.4700
+          ],
           "nome": "Trastevere",
           "descrizione_breve": "Trastevere restituisce il lato più quotidiano, popolare e vissuto della città, quello che nei dipinti di Roesler Franz non fa da sfondo ma diventa protagonista.",
           "indicazioni_arrivo": "Da Ponte Emilio si attraversa il ponte verso Trastevere.",
@@ -302,16 +389,38 @@
             "musica": {
               "brano": "Casetta De Trastevere",
               "compositore": "Claudio Villa",
-              "anno": "XX secolo",
-              "spotify_url": "https://open.spotify.com/intl-it/track/1l9Vq5FfGgUO3djaQhjRdP",
+              "interprete": "Claudio Villa",
+              "anno": {
+                "testuale": "XX secolo",
+                "valore": null
+              },
+              "spotify": {
+                "tipo": "track",
+                "id": "1l9Vq5FfGgUO3djaQhjRdP",
+                "url": "https://open.spotify.com/intl-it/track/1l9Vq5FfGgUO3djaQhjRdP"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "identificatore Spotify non verificato in tempo reale"
+              },
               "collegamento_tappa": "La canzone richiama una dimensione domestica e popolare del rione. È adatta a una tappa in cui Roma torna a essere quartiere, vicolo, casa e vita quotidiana."
             },
             "letteratura": {
-              "citazione": "La Roma più vera a volte si lascia leggere meglio nei vicoli che nelle grandi vedute.",
-              "autore": "Chiave narrativa del progetto",
-              "opera": "Lettura di Trastevere",
-              "anno": "",
-              "contesto": "La frase sintetizza il ruolo di Trastevere nel percorso: una Roma meno ufficiale, più intima e popolare, vicina allo sguardo di Roesler Franz."
+              "citazione": "Memorie di un'era che passa.",
+              "autore": "Ettore Roesler Franz",
+              "opera": "Roma pittoresca",
+              "anno": "1878-1896",
+              "contesto": "Il titolo della celebre raccolta di acquerelli sintetizza il significato dell'itinerario e si adatta particolarmente a Trastevere, quartiere in cui la dimensione popolare della Roma ottocentesca è rimasta maggiormente percepibile.",
+              "fonti": [
+                {
+                  "tipo": "museo ufficiale",
+                  "link": "https://www.museodiromaintrastevere.it/it/infopage/ettore-roesler-franz"
+                },
+                {
+                  "tipo": "museo ufficiale",
+                  "link": "https://www.museodiroma.it/it/percorso/roma-sparita"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -354,7 +463,10 @@
           "orario_consigliato": "16:00",
           "momento_giornata": "pomeriggio",
           "durata_visita_min": 50,
-          "coordinate": [41.8891, 12.4706],
+          "coordinate": [
+            41.8891,
+            12.4706
+          ],
           "nome": "Museo di Roma in Trastevere",
           "descrizione_breve": "Questa è la tappa finale del percorso, perché permette di rileggere i luoghi attraversati attraverso immagini, memoria urbana e sguardo artistico.",
           "indicazioni_arrivo": "Dal centro di Trastevere si raggiunge a piedi in pochi minuti.",
@@ -366,16 +478,34 @@
             "musica": {
               "brano": "Roma capoccia",
               "compositore": "Antonello Venditti",
-              "anno": "1972",
-              "spotify_url": "https://open.spotify.com/intl-it/track/5ocKe9oBoFLOSnnhML3WOC",
+              "interprete": "Antonello Venditti",
+              "anno": {
+                "testuale": "1972",
+                "valore": 1972
+              },
+              "spotify": {
+                "tipo": "track",
+                "id": "5ocKe9oBoFLOSnnhML3WOC",
+                "url": "https://open.spotify.com/intl-it/track/5ocKe9oBoFLOSnnhML3WOC"
+              },
+              "validazione": {
+                "stato": "verificato_parziale",
+                "motivo": "identificatore Spotify non verificato in tempo reale"
+              },
               "collegamento_tappa": "La canzone funziona come chiusura emotiva del percorso: dopo aver attraversato la città reale, il visitatore torna a guardare Roma come insieme di memoria, immagini e sentimento urbano."
             },
             "letteratura": {
-              "citazione": "Roma pittoresca. Memorie di un'era che passa",
+              "citazione": "Roma pittoresca. Memorie di un'era che passa.",
               "autore": "Ettore Roesler Franz",
-              "opera": "Idea guida della serie Roma sparita",
-              "anno": "fine XIX secolo",
-              "contesto": "La formula sintetizza bene il senso della tappa finale: il museo trasforma i luoghi attraversati in memoria visiva e permette di rileggere la città attraverso gli acquerelli."
+              "opera": "Roma Sparita",
+              "anno": "1878-1896",
+              "contesto": "Titolo del ciclo pittorico dedicato alla Roma destinata a scomparire o a trasformarsi profondamente.",
+              "fonti": [
+                {
+                  "tipo": "museo collezione",
+                  "link": "https://www.museodiromaintrastevere.it/it/infopage/ettore-roesler-franz"
+                }
+              ]
             },
             "arte_visiva": {
               "movimento_artistico": "Acquerello ottocentesco",
@@ -449,26 +579,20 @@
         {
           "tipo": "letteraria",
           "fonte": "Giuseppe Gioachino Belli",
-          "titolo": "Sonetti romaneschi",
-          "url": "https://it.wikisource.org/wiki/Pagina:Sonetti_romaneschi_VI.djvu/362"
+          "titolo": "Sto monno e cquell'antro",
+          "url": "https://it.wikisource.org/wiki/Sto_monno_e_cquell%27antro"
         },
         {
           "tipo": "letteraria",
           "fonte": "Giacomo Debenedetti",
           "titolo": "16 ottobre 1943",
-          "url": "https://www.archivioluce.com/16-ottobre-1943/"
+          "url": "https://books.google.com/books/about/16_ottobre_1943.html?hl=it&id=oQ4VrgEACAAJ"
         },
         {
-          "tipo": "tecnica",
-          "fonte": "Leaflet",
-          "titolo": "Leaflet 1.9.4",
-          "url": "https://leafletjs.com/"
-        },
-        {
-          "tipo": "tecnica",
-          "fonte": "OpenStreetMap",
-          "titolo": "Tile layer cartografico",
-          "url": "https://www.openstreetmap.org/"
+          "tipo": "enciclopedica",
+          "fonte": "Treccani",
+          "titolo": "Asclepio",
+          "url": "https://www.treccani.it/enciclopedia/asclepio/"
         },
         {
           "tipo": "musicale",
